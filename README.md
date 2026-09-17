@@ -9,7 +9,7 @@ cloud infrastructure, automation, CI/CD and containerized deployments.
 
 ## 🧑‍💻 About Me
 
-- 🎓 Final-year Electronics & Telecommunication Engineering student
+- 🎓 Electronics & Telecommunication Engineering Graduate
 - ☁️ Focused on **DevOps & Cloud Computing**
 - 🚀 Hands-on with **AWS, Linux, Docker, Jenkins and Terraform**
 - 🔄 Building and automating **CI/CD pipelines**
